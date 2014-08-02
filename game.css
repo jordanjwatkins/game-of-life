@@ -1,0 +1,6 @@
+*, *:before, *:after{position:relative;background-position:0 0; background-repeat: no-repeat; -moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+a {display: block; height: 100%; width: 100%; position: absolute;}
+.grid {width: 402px; overflow:hidden; margin: 0 auto; border: solid 1px #000;}
+.grid > div {width: 20px; height: 20px; float: left; border: solid 1px #000;}
+.alive {background: green;}
+form {text-align: center;}
